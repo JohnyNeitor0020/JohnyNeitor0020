@@ -62,24 +62,12 @@ what keeps pushing me to grow as a developer.
   <tr>
     <td width="50%" valign="top">
       <div align="center">
-        <a href="https://github.com/Bensha025/Emprendedora">
-          <img src="https://via.placeholder.com/600x300/316192/ffffff?text=PrestaChat" width="100%" alt="PrestaChat" />
-        </a>
-        <br />
-        <h3>💬 PrestaChat</h3>
-        <p>Chatbot que automatiza notificaciones para una financiera vía WhatsApp.</p>
-        <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-      </div>
-    </td>
-    <td width="50%" valign="top">
-      <div align="center">
         <a href="https://github.com/Bensha025/OptimizadorDeRutas">
           <img src="https://via.placeholder.com/600x300/2C2D72/ffffff?text=Optimizador+de+Rutas" width="100%" alt="Optimizador de Rutas" />
         </a>
         <br />
-        <h3>📍 Optimizador de Rutas</h3>
-        <p>Sistema diseñado para calcular las rutas más eficientes utilizando algoritmos de optimización.</p>
+        <h3>📍 Route Optimizer</h3>
+        <p>A system designed to calculate the shortest and most efficient routes in order to minimize costs..</p>
           <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
           <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
           <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
@@ -95,8 +83,8 @@ what keeps pushing me to grow as a developer.
           <img src="https://via.placeholder.com/600x300/478CBF/ffffff?text=Gestor+de+Viajes" width="100%" alt="Gestor de Viajes" />
         </a>
         <br />
-        <h3>✈️ Gestor de Viajes</h3>
-        <p>Aplicación para la planificación y administración de itinerarios de viaje de forma organizada.</p>
+        <h3>✈️ BonVoyage</h3>
+        <p>An application designed for the organized planning and management of travel itineraries.</p>
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
           <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -107,8 +95,8 @@ what keeps pushing me to grow as a developer.
       <div align="center">
         <img src="https://via.placeholder.com/600x300/000000/ffffff?text=Proximamente" width="100%" />
         <br />
-        <h3>🎮 Videojuegos 2D</h3>
-        <p>Juego con objetivo de saltar obstaculoscon temática medieval.</p>
+        <h3>🎮 VideoGame 2D</h3>
+        <p>A medieval-themed game where the objective is to jump over obstacles.</p>
         <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" />
       </div>
     </td>
