@@ -61,7 +61,6 @@ what keeps pushing me to grow as a developer.
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com">
           <img src="https://via.placeholder.com/600x300/316192/ffffff?text=PrestaChat" width="100%" alt="PrestaChat" />
