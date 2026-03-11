@@ -61,6 +61,18 @@ what keeps pushing me to grow as a developer.
 <table border="0">
   <tr>
     <td width="50%" valign="top">
+      <td width="50%" valign="top">
+      <div align="center">
+        <a href="https://github.com">
+          <img src="https://via.placeholder.com/600x300/316192/ffffff?text=PrestaChat" width="100%" alt="PrestaChat" />
+        </a>
+        <br />
+        <h3>💬 PrestaChat</h3>
+        <p>A WhatsApp-integrated chatbot designed to automate client notifications for a financial agency.</p>
+        <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </div>
+    </td>
       <div align="center">
         <a href="https://github.com/Bensha025/OptimizadorDeRutas">
           <img src="https://via.placeholder.com/600x300/2C2D72/ffffff?text=Optimizador+de+Rutas" width="100%" alt="Optimizador de Rutas" />
