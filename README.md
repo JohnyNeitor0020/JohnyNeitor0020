@@ -72,17 +72,18 @@ what keeps pushing me to grow as a developer.
         <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
       </div>
     </td>
+    <td width="50%" valign="top">
       <div align="center">
         <a href="https://github.com/Bensha025/OptimizadorDeRutas">
           <img src="https://via.placeholder.com/600x300/2C2D72/ffffff?text=Optimizador+de+Rutas" width="100%" alt="Optimizador de Rutas" />
         </a>
         <br />
         <h3>📍 Route Optimizer</h3>
-        <p>A system designed to calculate the shortest and most efficient routes in order to minimize costs..</p>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-          <img src="https://img.shields.io/badge/FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white" />
+        <p>A system designed to calculate the shortest and most efficient routes in order to minimize costs.</p>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-05998B?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </div>
     </td>
@@ -96,10 +97,10 @@ what keeps pushing me to grow as a developer.
         <br />
         <h3>✈️ BonVoyage</h3>
         <p>An application designed for the organized planning and management of travel itineraries.</p>
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-          <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
       </div>
     </td>
     <td width="50%" valign="top">
@@ -113,5 +114,3 @@ what keeps pushing me to grow as a developer.
     </td>
   </tr>
 </table>
-
-<hr>
